@@ -14,7 +14,7 @@ working Master and Daemon in place. \
 The Hytale Server API integration will have to wait till Hytale (or just the Server API) has released but till then the
 project will mainly focus on the Master and the Daemon.
 
-###Development Discussion
+### Development Discussion
 As many projects in the gaming community, we have a [Discord Server](https://discord.gg/ZaCwPbj) that you are free to join. \
 We will try our best to help you with issues that you are facing, coding or just general usage problems but don't expect
 us to set it up for you.
